@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\insertion sort\insertion sort\obj\Debug\net6.0-windows\insertion sort.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\insertion sort\insertion sort\obj\Debug\net6.0-windows\insertion_sort.Form1.resources
+C:\Users\HP\source\repos\insertion sort\insertion sort\obj\Debug\net6.0-windows\insertion sort.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\insertion sort\insertion sort\obj\Debug\net6.0-windows\insertion sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\insertion sort\insertion sort\obj\Debug\net6.0-windows\insertion sort.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\insertion sort\insertion sort\obj\Debug\net6.0-windows\insertion sort.AssemblyInfo.cs
+C:\Users\HP\source\repos\insertion sort\insertion sort\obj\Debug\net6.0-windows\insertion sort.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\insertion sort\insertion sort\bin\Debug\net6.0-windows\insertion sort.exe
+C:\Users\HP\source\repos\insertion sort\insertion sort\bin\Debug\net6.0-windows\insertion sort.deps.json
+C:\Users\HP\source\repos\insertion sort\insertion sort\bin\Debug\net6.0-windows\insertion sort.runtimeconfig.json
+C:\Users\HP\source\repos\insertion sort\insertion sort\bin\Debug\net6.0-windows\insertion sort.dll
+C:\Users\HP\source\repos\insertion sort\insertion sort\bin\Debug\net6.0-windows\insertion sort.pdb
+C:\Users\HP\source\repos\insertion sort\insertion sort\obj\Debug\net6.0-windows\insertion sort.dll
+C:\Users\HP\source\repos\insertion sort\insertion sort\obj\Debug\net6.0-windows\refint\insertion sort.dll
+C:\Users\HP\source\repos\insertion sort\insertion sort\obj\Debug\net6.0-windows\insertion sort.pdb
+C:\Users\HP\source\repos\insertion sort\insertion sort\obj\Debug\net6.0-windows\insertion sort.genruntimeconfig.cache
+C:\Users\HP\source\repos\insertion sort\insertion sort\obj\Debug\net6.0-windows\ref\insertion sort.dll
